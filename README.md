@@ -4,11 +4,18 @@ Este repositorio contiene el código y los recursos utilizados en el Trabajo de 
 
 ## 🎯 Objetivo del proyecto
 
-El propósito de este proyecto es el **análisis y validación de un screening genético utilizando la tecnología CRISPR/Cas9**, orientado a identificar **posibles dianas terapéuticas** relevantes en el tratamiento del **adenocarcinoma ductal pancreático**. El pipeline desarrollado permite el preprocesamiento, filtrado, análisis estadístico e interpretación biológica de los datos crudos de secuenciación, optimizando la identificación de genes candidatos y generando resultados reproducibles para su aplicación investigadora.
+El propósito de este proyecto es el **análisis y validación de un screening genético utilizando la tecnología CRISPR/Cas9**, orientado a identificar **posibles dianas terapéuticas** relevantes en el tratamiento del **adenocarcinoma ductal pancreático**. El pipeline implementado abarca etapas de preproocesamiento, filtrado, análisis estadístico e interpretación biológica de los archivos crudos de secuenciación, y está íntegramente documentado en el trabajo académico adjunto.
+
+## 📄 Trabajo de Fin de Máster
+
+Todo el pipeline descrito en este repositorio se encuentra detallado en el documento:  
+👉 [`TFM definitivo.pdf`](./TFM%20definitivo.pdf)
+
+Este archivo contiene la memoria completa del proyecto, incluyendo el marco teórico, metodología, resultados y conclusiones.
 
 ## ⚙️ Uso
 
-Este repositorio está destinado a fines académicos. Para ejecutar el pipeline, se recomienda revisar los scripts y notebooks incluidos, siguiendo las instrucciones detalladas en cada sección del proyecto.
+Este repositorio está destinado a fines académicos. Para ejecutar el pipeline, se recomienda revisar los scripts y notebooks incluidos, siguiendo las instrucciones descritas en el documento TFM.
 
 ## 📜 Licencia
 
