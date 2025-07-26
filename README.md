@@ -4,7 +4,7 @@ Este repositorio contiene el código y los recursos utilizados en el Trabajo de 
 
 ## 🎯 Objetivo del proyecto
 
-El propósito de este proyecto es el **análisis y validación de un screening genético utilizando la tecnología CRISPR/Cas9**, orientado a identificar **posibles dianas terapéuticas** relevantes en el tratamiento del **adenocarcinoma ductal pancreático**. El pipeline desarrollado permite el procesamiento, filtrado, análisis estadístico e interpretación biológica de los datos obtenidos, optimizando la identificación de genes candidatos y generando resultados reproducibles para su aplicación investigadora.
+El propósito de este proyecto es el **análisis y validación de un screening genético utilizando la tecnología CRISPR/Cas9**, orientado a identificar **posibles dianas terapéuticas** relevantes en el tratamiento del **adenocarcinoma ductal pancreático**. El pipeline desarrollado permite el preprocesamiento, filtrado, análisis estadístico e interpretación biológica de los datos crudos de secuenciación, optimizando la identificación de genes candidatos y generando resultados reproducibles para su aplicación investigadora.
 
 ## ⚙️ Uso
 
