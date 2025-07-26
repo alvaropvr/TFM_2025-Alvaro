@@ -1,7 +1,7 @@
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-Copyright © 2024 Álvaro Peñarrubia Navarro
+Copyright © 2025 Álvaro Peñarrubia Navarro
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
