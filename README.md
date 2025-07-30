@@ -8,7 +8,7 @@ The aim of this project is to analyze and validate a genetic screening using CRI
 
 📄 Master's Thesis
 
-The full pipeline described in this repository is detailed in the document: 👉 TFM_definitivo.pdf
+The full pipeline described in this repository is detailed in the document: 👉 TFM definitivo.pdf
 
 This file contains the complete report of the project, including the theoretical background, methodology, results, and conclusions.
 
