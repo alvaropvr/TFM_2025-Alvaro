@@ -1,36 +1,29 @@
-# 🧬 Análisis de un screen de CRISPR/Cas9 para la identificación de dianas terapéuticas en adenocarcinoma ductal pancreático
+🧬 Analysis of a CRISPR/Cas9 Screen for the Identification of Therapeutic Targets in Pancreatic Ductal Adenocarcinoma
 
-Este repositorio contiene el código y los recursos utilizados en el Trabajo de Fin de Máster de **Álvaro Peñarrubia Navarro**, presentado en el curso académico 2023–2024 dentro del **Máster en Bioinformática** de la **Universidad Internacional de Valencia – Valencian International University (VIU)**.
+This repository contains the code and resources used in the Master's Thesis by Álvaro Peñarrubia Navarro, presented during the 2024–2025 academic year as part of the Master’s Program in Bioinformatics at Valencian International University (VIU).
 
-## 🎯 Objetivo del proyecto
+🎯 Project Objective
+The aim of this project is to analyze and validate a genetic screening using CRISPR/Cas9 technology to identify potential therapeutic targets relevant to the treatment of pancreatic ductal adenocarcinoma (PDAC). The implemented pipeline includes preprocessing, filtering, statistical analysis, and biological interpretation of raw sequencing data, all of which are fully documented in the accompanying academic report.
 
-El propósito de este proyecto es el **análisis y validación de un screening genético utilizando la tecnología CRISPR/Cas9**, orientado a identificar **posibles dianas terapéuticas** relevantes en el tratamiento del **adenocarcinoma ductal pancreático**. El pipeline implementado abarca etapas de preproocesamiento, filtrado, análisis estadístico e interpretación biológica de los archivos crudos de secuenciación, y está íntegramente documentado en el trabajo académico adjunto.
+📄 Master's Thesis
+The full pipeline described in this repository is detailed in the document: 👉 TFM_definitivo.pdf
 
-## 📄 Trabajo de Fin de Máster
+This file contains the complete report of the project, including the theoretical background, methodology, results, and conclusions.
 
-Todo el pipeline descrito en este repositorio se encuentra detallado en el documento:  
-👉 [`TFM definitivo.pdf`](./TFM%20definitivo.pdf)
+⚙️ Usage
+This repository is intended for academic purposes. To run the pipeline, it is recommended to review the included scripts and notebooks, following the instructions outlined in the thesis document.
 
-Este archivo contiene la memoria completa del proyecto, incluyendo el marco teórico, metodología, resultados y conclusiones.
+📜 License
+This project is released under the GNU General Public License v3.0, which means:
 
-## ⚙️ Uso
+You may use, modify, and redistribute the code as long as you preserve open access.
 
-Este repositorio está destinado a fines académicos. Para ejecutar el pipeline, se recomienda revisar los scripts y notebooks incluidos, siguiendo las instrucciones descritas en el documento TFM.
+Any derivative work must remain under the same GPL v3.0 license.
 
-## 📜 Licencia
+The original author's attribution must be retained.
 
-Este proyecto se distribuye bajo la **GNU General Public License v3.0**, lo que implica que:
+See the LICENSE.txt file for more information or visit: 👉 https://www.gnu.org/licenses/gpl-3.0.html
 
-- Puedes usar, modificar y redistribuir este código siempre que mantengas el acceso abierto.
-- Cualquier trabajo derivado debe también estar bajo la misma licencia GPL v3.0.
-- Debe conservarse la atribución original al autor.
-
-Consulta el archivo [`LICENSE.txt`](LICENSE.txt) para más información o visita:  
-👉 [https://www.gnu.org/licenses/gpl-3.0.html](https://www.gnu.org/licenses/gpl-3.0.html)
-
-## 👤 Autor
-
-**Álvaro Peñarrubia Navarro**  
-Trabajo de Fin de Máster – Máster en Bioinformática  
-Universidad Internacional de Valencia – Valencian International University (VIU)  
+👤 Author
+Álvaro Peñarrubia Navarro Master’s Thesis – Master in Bioinformatics Valencian International University (VIU) 
 2025
